@@ -50,6 +50,7 @@ Make images in Alfred's clipboard history searchable by their text content.
 ### [Fastest Emoji Search][9]
 A workflow for emojis that supports keyword-based search in multiple
 languages and creating stickers with Google's Emoji Kitchen.
+<br/>
 <a href="https://github.com/mr-pennyworth/alfred-fastest-emoji/releases/latest/">
   <img alt="Download"
        src="https://img.shields.io/github/downloads/mr-pennyworth/alfred-fastest-emoji/total?color=purple&label=Download">
