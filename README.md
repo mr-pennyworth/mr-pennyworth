@@ -76,13 +76,13 @@ A package for creating workflows in Swift. The library has helpers for:
 ### [Extra Pane][10]
 Spotight-like rich previews for Alfred workflows.
 
-[1]: https://github.com/mr-pennyworth/alfred-history-search
-[2]: https://github.com/mr-pennyworth/alfred-cleanshot
+[1]: https://github.com/mr-pennyworth/alfred-history-search#readme
+[2]: https://github.com/mr-pennyworth/alfred-cleanshot#readme
 [3]: https://cleanshot.com/
-[4]: https://github.com/mr-pennyworth/alfred-gif
-[5]: https://github.com/mr-pennyworth/AlfredSwift
-[6]: https://github.com/mr-pennyworth/alfred-asciimath
-[7]: https://github.com/mr-pennyworth/alfred-clipboard-ocr
-[8]: https://github.com/mr-pennyworth/alfred-better-dictionaries
-[9]: https://github.com/mr-pennyworth/alfred-fastest-emoji
-[10]: https://github.com/mr-pennyworth/alfred-extra-pane
+[4]: https://github.com/mr-pennyworth/alfred-gif#readme
+[5]: https://github.com/mr-pennyworth/AlfredSwift#readme
+[6]: https://github.com/mr-pennyworth/alfred-asciimath#readme
+[7]: https://github.com/mr-pennyworth/alfred-clipboard-ocr#readme
+[8]: https://github.com/mr-pennyworth/alfred-better-dictionaries#readme
+[9]: https://github.com/mr-pennyworth/alfred-fastest-emoji#readme
+[10]: https://github.com/mr-pennyworth/alfred-extra-pane#readme
