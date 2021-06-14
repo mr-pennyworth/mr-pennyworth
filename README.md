@@ -65,6 +65,14 @@ and [Giphy](https://giphy.com) from Alfred.
        src="https://img.shields.io/github/downloads/mr-pennyworth/alfred-gif/total?color=purple&label=Download">
 </a>
 
+### [Instant Fuzzy File Search][11]
+List all the files deep inside folders, and instantly fuzzy-search through them.
+</br>
+<a href="https://github.com/mr-pennyworth/alfred-fzf/releases/latest/">
+  <img alt="Download"
+       src="https://img.shields.io/github/downloads/mr-pennyworth/alfred-fzf/total?color=purple&label=Download">
+</a>
+
 ## Tools and Libraries
 
 ### [AlfredSwift][5]
@@ -86,3 +94,4 @@ Spotight-like rich previews for Alfred workflows.
 [8]: https://github.com/mr-pennyworth/alfred-better-dictionaries#readme
 [9]: https://github.com/mr-pennyworth/alfred-fastest-emoji#readme
 [10]: https://github.com/mr-pennyworth/alfred-extra-pane#readme
+[11]: https://github.com/mr-pennyworth/alfred-fzf#readme
